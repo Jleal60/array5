@@ -2,20 +2,26 @@
 
 // 1. Update the variable songList so that it is an array with at least 3 song titles.
 let songList;
-console.log();
-
+console.log(songList);
+songList = ["song 1", "song 2", "song 3"];
+console.log(songList);
 // 2. Update the variable studentList so that it is an array with 4 Code Nation students (including yourself) in your class.
 let studentList;
-console.log();
+console.log(studentList);
+studentList = ["student 1", "student 2", "student 3"];
+console.log(studentList);
 
 // 3. Update the variable teacherList so that it is an array with all the Code Nation adults in your class.
 let teacherList;
-console.log();
+console.log(teacherList);
+teacherList = ["teacher 1", "teacher 2", "teacher 3"];
+console.log(teacherList);
 
 // 4. Update the variable familyAges so that it is an array with a list of ages (numbers) of your family members.
 let familyAges;
-console.log();
-
+console.log(familyAges);
+familyAges = ["family 1", "family 2", "family 3"];
+console.log(familyAges);
 //PAUSE HERE
 
 // CODE SOLO
